@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "747447375412",
+    "firebase_url": "https://chatapp-8fe84.firebaseio.com",
+    "project_id": "chatapp-8fe84",
+    "storage_bucket": "chatapp-8fe84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747447375412:android:2881d670dd456418",
+        "android_client_info": {
+          "package_name": "com.manoj.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747447375412-t7mqu67b408ro31rmo7q8ptuktfnldq0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "747447375412-t7mqu67b408ro31rmo7q8ptuktfnldq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDutdnfDDkTpX4xjPteFbBJooXbfI6mKew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
